@@ -2,11 +2,13 @@
 
 设置环境变量
 
-    # sudo vim /etc/profile.d/go
+执行命令 `# sudo vim /etc/profile.d/go`
+
     export GOROOT=/usr/local/go
     export PATH=$PATH:$GOROOT/bin
     export GOPATH=/root/Go
-    # source /etc/profile.d/go
+
+执行命令 `# source /etc/profile.d/go`
 
 安装C工具
 
