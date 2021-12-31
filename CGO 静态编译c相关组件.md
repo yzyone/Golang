@@ -34,4 +34,6 @@ go做的真的绝。
 
 转载于:https://my.oschina.net/chuqq/blog/1809679
 
-相关资源：go语言写的静态网站_go开发静态网页-Web开发代码类资源
+相关资源：[go语言写的静态网站_go开发静态网页-Web开发代码类资源](https://download.csdn.net/download/izengshuai/6966865?utm_source=iteye?spm=1001.2101.3001.5697)
+
+原文链接：https://blog.csdn.net/weixin_33849215/article/details/91650093
