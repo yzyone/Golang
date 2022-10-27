@@ -8,7 +8,9 @@
 本地直接编译打一个linux运行包
 
 ```
-set GOOS=linuxset GOARCH=amd64go build main.go
+set GOOS=linux 
+set GOARCH=amd64 
+go build main.go
 ```
 
 ![图片](./docker/640.png)  
